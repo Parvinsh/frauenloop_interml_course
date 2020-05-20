@@ -12,4 +12,4 @@ Student | Sara |  |
 Student | Henrieke |  |  
 Student | Parvin |  |  Physicist
 Student | Elena | Romania | Education Specialist  
-parvin
+parvin as daste to mord
