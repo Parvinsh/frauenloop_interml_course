@@ -10,5 +10,5 @@ Mentor | Sam | USA | Data Scientist
 Student | Yuka |  |  
 Student | Sara |  |  
 Student | Henrieke |  |  
-Student | Parvin |  |  
+Student | Parvin |Iran  |  Data Scientist
 Student | Elena | Romania | Education Specialist  
