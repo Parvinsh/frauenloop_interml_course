@@ -7,8 +7,14 @@ Role | Name | Country | Occupation
 --- | --- | --- | ---
 Mentor | Laura | Spain | Data Scientist
 Mentor | Sam | USA | Data Scientist
-Student | Yuka |  |  
+Student | Yuka | JPN | DS student  
 Student | Sara |  |  
+
 Student | Henrieke |  |  
 Student | Parvin |Iran  |  Data Scientist
+=======
+Student | Henrieke | Germany | Consultant 
+Student | Parvin |  |  
+Student | Kasia | Poland |  Project Manager
+
 Student | Elena | Romania | Education Specialist  
